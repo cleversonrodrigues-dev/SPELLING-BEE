@@ -107,7 +107,7 @@
 
       speech.lang = "en-US";
 
-      speech.rate = 0.8;
+      speech.rate = 0.5;
 
       speechSynthesis.speak(speech);
 
